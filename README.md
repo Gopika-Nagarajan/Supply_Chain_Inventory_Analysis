@@ -32,3 +32,7 @@ This project focuses on analyzing supply chain and inventory data using Microsof
 - Excel Reporting
 - Dashboard Development
 - Analytical Thinking
+- ## Dashboard Preview
+
+![Supply Inventory Dashboard](Supply_Inventory_Dashboard.png)
+
